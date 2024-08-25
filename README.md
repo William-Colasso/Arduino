@@ -8,3 +8,6 @@ If you want to try program in the arduino, check the links:
 - <a href="https://www.arduino.cc/en/software">ARDUINO IDE</a>
 - <a href="https://www.tinkercad.com/users/3x6LNiwhcxx">THINKER CAD</a>
 - <a href="https://wokwi.com">WOKWI</a>
+
+
+Alert: The code comment is in portuguese. If your are in chrome, use the translator.
